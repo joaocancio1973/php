@@ -1,4 +1,4 @@
 <?php
 
-echo "Que maravilha";
+echo "Que legal tudo isso";
 ?>
